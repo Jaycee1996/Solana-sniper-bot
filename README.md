@@ -100,8 +100,3 @@ The list below summarizes the available endpoints through RPC aganst a public or
 ### Identifying and Monitoring Top Traders
 - Use getSignaturesForAddress and getTransaction to track the activities of known wallets associated with top traders. 
 ### Token Holder Analysis for Decentralization and Whale Tracking
-
-
-
-
-

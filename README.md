@@ -101,18 +101,6 @@ The list below summarizes the available endpoints through RPC aganst a public or
 - Use getSignaturesForAddress and getTransaction to track the activities of known wallets associated with top traders. 
 ### Token Holder Analysis for Decentralization and Whale Tracking
 
-#### WebSocket Data:
-
-1. [accountSubscribe](https://solana.com/es/docs/rpc/websocket/logssubscribe): Monitor changes to specific accounts in real-time, such as token balances changing.
-2. [logsSubscribe](https://solana.com/es/docs/rpc/websocket/logssubscribe): Get real-time streaming of transaction logs, useful for live monitoring of contract interactions.
-3. [signatureSubscribe](https://solana.com/es/docs/rpc/websocket/signaturesubscribe): Subscribe to receive a notification when the transaction with the given signature reaches the specified commitment level.
-4. [blockSubscribe](https://solana.com/es/docs/rpc/websocket/blocksubscribe): Subscribe to receive notification anytime a new block is confirmed or finalized.
-5. [programSubscribe](https://solana.com/es/docs/rpc/websocket/programsubscribe): Subscribe to a program to receive notifications when the lamports or data for an account owned by the given program changes
-
-
-
-
-
 
 
 
